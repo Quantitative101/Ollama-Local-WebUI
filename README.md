@@ -1,5 +1,5 @@
 # Ollama-Local-WebUI
-A local HTML HTML Frontend - Made by Quantitative
+A local HTML Frontend - Made by Quantitative
 
 
 Usage:
